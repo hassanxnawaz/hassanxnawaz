@@ -1,6 +1,12 @@
 # Hassan Nawaz
 
-Product and design leader. I set the goal, the metrics, and what ships.
+Engineering, product, and design leader for AI. I direct the system, and I still write the hard parts.
+
+## Languages
+
+TypeScript, Python, and JavaScript. Those are the ones I will defend in a room.
+
+The work behind them: agent tooling on MCP and A2A, RAG and grounding, evaluation, and the interface layer of agent products. Fifteen years shipping the front end of complex systems, then the agent layer on top.
 
 ## Open work
 
@@ -9,9 +15,9 @@ Product and design leader. I set the goal, the metrics, and what ships.
 
 ## Where the next commits go
 
-Not into new repos just to fill a contribution graph.
+Not into new repos just to fill a graph.
 
-- Python, into [OpenTelemetry GenAI semantic conventions](https://github.com/open-telemetry/semantic-conventions-genai), as someone who already ships a reader of those traces.
-- Design, into [USWDS](https://github.com/uswds/uswds), the U.S. Web Design System. Public sites, real accessibility.
+- Python, into [OpenTelemetry GenAI semantic conventions](https://github.com/open-telemetry/semantic-conventions-genai). Consumer note already posted on confidence intervals.
+- TypeScript, into the [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk). Same standard the agent tooling was built on.
 
 LinkedIn: [in/hassanxnawaz](https://www.linkedin.com/in/hassanxnawaz)
