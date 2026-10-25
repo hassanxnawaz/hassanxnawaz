@@ -1,6 +1,6 @@
 # Hassan Nawaz
 
-Product design and engineering for AI. I still write the hard parts.
+Product, Design and Engineering for AI. I still write the hard parts.
 
 ## Languages
 
