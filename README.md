@@ -1,6 +1,6 @@
 # Hassan Nawaz
 
-Director-level engineering, product, and design for AI. I direct the system, and I still write the hard parts.
+Product design and engineering for AI. I still write the hard parts.
 
 ## Languages
 
