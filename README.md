@@ -1,6 +1,6 @@
 # Hassan Nawaz
 
-Engineering, product, and design leader for AI. I direct the system, and I still write the hard parts.
+Director-level engineering, product, and design for AI. I direct the system, and I still write the hard parts.
 
 ## Languages
 
